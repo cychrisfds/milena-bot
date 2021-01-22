@@ -123,18 +123,18 @@ async function starts() {
 			const isCmd = body.startsWith(prefix)
 
 			mess = {
-				wait: '⌛ 𝐒𝐚𝐛𝐚𝐫 𝐓𝐨𝐝 ⌛',
-				success: '✔️ 𝐁𝐞𝐫𝐡𝐚𝐬𝐢𝐥 ✔️',
+				wait: '⌛ espera porra ⌛',
+				success: '✔️ suseçu ✔️',
 				error: {
-					stick: '❌ Gagal, terjadi kesalahan saat mengkonversi gambar ke sticker ❌',
+					stick: '❌ Falha, ocorreu um erro ao converter a imagem em um adesivo ❌',
 					Iv: '❌ Link tidak valid ❌'
 				},
 				only: {
-					group: '❌ Perintah ini hanya bisa di gunakan dalam group! ❌',
-					ownerG: '❌ Perintah ini hanya bisa di gunakan oleh owner group! ❌',
-					ownerB: '❌ Perintah ini hanya bisa di gunakan oleh owner bot! ❌',
-					admin: '❌ Perintah ini hanya bisa di gunakan oleh admin group! ❌',
-					Badmin: '❌ Perintah ini hanya bisa di gunakan ketika bot menjadi admin! ❌'
+					group: '❌ esse comando so pode em grupo vaza do meu pv ❌',
+					ownerG: '❌ esse comando e so pro ademir supremo vaza membro comum ❌',
+					ownerB: '❌ so pode ser usado pelo dono do bot ❌',
+					admin: '❌ esse comando so pode ser usado pelos ademir krl sai membro comum ❌',
+					Badmin: '❌ da ademir po bot carai ❌'
 				}
 			}
 
@@ -278,7 +278,7 @@ async function starts() {
 							fs.unlinkSync(media)
 							let buffer = Buffer.from(res.base64img, 'base64')
 							fs.writeFileSync(ranp, buffer, (err) => {
-								if (err) return reply('Gagal, Terjadi kesalahan, silahkan coba beberapa saat lagi.')
+								if (err) return reply('Falha, ocorreu um erro, tente novamente mais tarde.')
 							})
 							exec(`ffmpeg -i ${ranp} -vcodec libwebp -filter:v fps=fps=20 -lossless 1 -loop 0 -preset default -an -vsync 0 -s 512:512 ${ranw}`, (err) => {
 								fs.unlinkSync(ranp)
