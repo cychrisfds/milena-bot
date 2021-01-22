@@ -15,7 +15,7 @@ node index.js ou npm start
 
 
 
-
+-----------------------------------
 # Política de segurança
 
 ## Versões Suportadas
@@ -37,3 +37,4 @@ Use esta seção para informar às pessoas como relatar uma vulnerabilidade.
 Diga-lhes para onde ir, com que frequência podem esperar receber atualizações sobre um
 vulnerabilidade relatada, o que esperar se a vulnerabilidade for aceita ou
 recusou, etc.
+-----------------------------------
