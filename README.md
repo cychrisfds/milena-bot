@@ -1,7 +1,7 @@
 # milena-bot
 Para a instalação do bot 
 👇comandos
----------------------------------------------------
+https://www.google.com/search?q=zero+two+300x300&tbm=isch&ved=2ahUKEwjZ-Nmpo6_uAhXdCbkGHexBAdgQ2-cCegQIABAA&oq=zero+two+300x300&gs_lcp=CgNpbWcQAzICCAAyBggAEAgQHjIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjoHCAAQsQMQQzoECAAQQzoFCAAQsQM6BAgAEB5Q1zJY6FhgvV9oAHAAeACAAaYBiAHwCJIBAzAuOJgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=ZaEKYJmyHN2T5OUP7IOFwA0&bih=657&biw=1366#imgrc=8Jbk0EG8tkvisM
 ## kkkk clona o projeto pra nois
 
 ```bash
