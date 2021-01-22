@@ -75,7 +75,7 @@ async function starts() {
 				} catch {
 					ppimg = 'https://i0.wp.com/www.gambarunik.id/wp-content/uploads/2019/06/Top-Gambar-Foto-Profil-Kosong-Lucu-Tergokil-.jpg'
 				}
-				teks = `eae @${num.split('@')[0]}\nseja bem vindo ao *${mdata.subject}*`
+				teks = `eae @${num.split('@')[0]}\nSeja bem vindo ao le as regras*${mdata.subject}*`
 				let buff = await getBuffer(ppimg)
 				client.sendMessage(mdata.id, buff, MessageType.image, {caption: teks, contextInfo: {"mentionedJid": [num]}})
 			} else if (anu.action == 'remove') {
@@ -85,7 +85,7 @@ async function starts() {
 				} catch {
 					ppimg = 'https://i0.wp.com/www.gambarunik.id/wp-content/uploads/2019/06/Top-Gambar-Foto-Profil-Kosong-Lucu-Tergokil-.jpg'
 				}
-				teks = `SELAMAT TINGGAL... @${num.split('@')[0]}👋* \n_Kalo balik jangan lupa bawa gorengan tod!!_`
+				teks = `FLW ARROMBADO... @${num.split('@')[0]}👋* \n_Se voltar, fds membro comum que se foda_`
 				let buff = await getBuffer(ppimg)
 				client.sendMessage(mdata.id, buff, MessageType.image, {caption: teks, contextInfo: {"mentionedJid": [num]}})
 			}
@@ -123,11 +123,11 @@ async function starts() {
 			const isCmd = body.startsWith(prefix)
 
 			mess = {
-				wait: '⌛ espera porra ⌛',
-				success: '✔️ suseçu ✔️',
+				wait: '[⌛]espera porra....',
+				success: '[✔️]sucesso....',
 				error: {
-					stick: '❌ Falha, ocorreu um erro ao converter a imagem em um adesivo ❌',
-					Iv: '❌ Link tidak valid ❌'
+					stick: '❌ Falha, tenta nao mandar o bglh pesado ❌',
+					Iv: '❌ link invalido pae ❌'
 				},
 				only: {
 					group: '❌ esse comando so pode em grupo vaza do meu pv ❌',
@@ -192,7 +192,7 @@ async function starts() {
 					client.sendMessage(from, buffer, image, {caption: teks, contextInfo:{mentionedJid: [me.jid]}})
 					break
 				case 'blocklist':
-					teks = '𝐋𝐢𝐬𝐭 𝐁𝐞𝐛𝐚𝐧 𝐊𝐨𝐧𝐭𝐚𝐤 :\n'
+					teks = 'lista dos contato com block :\n'
 					for (let block of blocked) {
 						teks += `➢ @${block.split('@')[0]}\n`
 					}
@@ -343,7 +343,7 @@ async function starts() {
 					case 'owner':
                 case 'creator':
                   client.sendMessage(from, {displayname: "Jeff", vcard: vcard}, MessageType.contact, { quoted: mek})
-               client.sendMessage(from, 'Nih nomor pacarku😍, ehh ownerku hehee😁 jangan di galakin ya:*',MessageType.text, { quoted: mek} )
+               client.sendMessage(from, 'Este é o número do meu namorado😍, ehh meu dono hehee😁 não fique chateado:*',MessageType.text, { quoted: mek} )
                 break
 				/*case 'loli':
 					loli.getSFWLoli(async (err, res) => {
