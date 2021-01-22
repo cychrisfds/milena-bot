@@ -2,14 +2,31 @@
 Para a instalação do bot 
 👇comandos
 ---------------------------------------------------
-git clone https://github.com/cychrisfds/milena-bot
+## kkkk clona o projeto pra nois
 
-cd milena-bot 
+```bash
+> git clone https://github.com/cychrisfds/milena-bot
+```
 
-bash install.sh 
+## Instale as dependências:
+Antes de executar o comando abaixo, certifique-se de estar no diretório do projeto que
+você acabou de clonar !!
 
-node index.js ou npm start
----------------------------------------------------
+```bash
+> cd milena-bot
+> bash install.sh
+```
+
+### Usage
+```bash
+> npm start
+```
+
+### Info
+```
+prefix = #
+```
+
 ♡ vlw
 
 
