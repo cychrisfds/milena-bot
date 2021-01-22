@@ -1,8 +1,5 @@
 
-obgd ao mhankbarbar pela ideia e ajuda de codigos, sou eterno grato <3
-<p align="center">
-<a href="https://github.com/mhankbarbar"><img title="Author" src="https://img.shields.io/badge/Author-mhankbarbar-red.svg?style=for-the-badge&logo=github"></a>
-</p>
+obgd ao [MhankBar](https://github.com/MhankBarBar/termux-wabot) pela ideia e ajuda de codigos, sou eterno grato <3
 
 # milena-bot
 Para a instalação do bot 
