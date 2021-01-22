@@ -1,3 +1,9 @@
+
+OBG 
+<p align="center">
+<a href="https://github.com/mhankbarbar"><img title="Author" src="https://img.shields.io/badge/Author-mhankbarbar-red.svg?style=for-the-badge&logo=github"></a>
+</p>
+
 # milena-bot
 Para a instalação do bot 
 👇comandos
