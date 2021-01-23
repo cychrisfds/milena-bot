@@ -1,22 +1,22 @@
 ﻿const help = (prefix) => {
 	return `🐊MILENA-BOT NE PAE🐊
 ┏━━━━━━━━━━━━━━━━━━━━┓
-┃*⚠️NAO LIGA FILHA DA PUTA*      
-┃*SE LIGAR E AUTO-BLOCK*         
+┃*⚠️NAO LIGA FILHA DA PUTA*
+┃*SE LIGAR E AUTO-BLOCK*
 ┣━━━━━━━━━━━━━━━━━━━━┛
 ┃⊱❥ DONO : Cychris
 ┃⊱❥ INSTA : @cychris_fds.trash
 ┃⊱❥ PREFIX :「 ${prefix} 」
 ┃⊱❥ VERÇAO : alpha v1
 ┣━━━━━━━━━━━━━━━━━━━━
-┃🔥✨INFORMAÇOES DA BOT✨🔥     ┃
+┃🔥✨INFORMAÇOES DA BOT✨🔥 
 ┣━━━━━━━━━━━━━━━━━━━━
 ┃➢ ${prefix}info
 ┃➢ ${prefix}owner
 ┃➢ ${prefix}donasi
 ┃➢ ${prefix}blocklist
 ┣━━━━━━━━━━━━━━━━━━━━
-┃🔥✨MENU NORMAL E CALMOKKKK✨🔥┃
+┃🔥✨MENU NORMAL E CALMOKKKK✨🔥
 ┣━━━━━━━━━━━━━━━━━━━━
 ┃➢ ${prefix}sticker
 ┃➢ ${prefix}sticker nobg
@@ -25,18 +25,18 @@
 ┃➢ ${prefix}tts
 ┃➢ ${prefix}nulis
 ┣━━━━━━━━━━━━━━━━━━━━
-┃🔥✨MENU DE DONWLOAD✨🔥       ┃   
+┃🔥✨MENU DE DONWLOAD✨🔥
 ┣━━━━━━━━━━━━━━━━━━━━
 ┃➢ ${prefix}tiktod
 ┃➢ ${prefix}ytmp3
 ┣━━━━━━━━━━━━━━━━━━━━
 ┣━━━━━━━━━━━━━━━━━━━━
-┃🔥✨MENU KKKKKKK✨🔥           ┃   
+┃🔥✨MENU KKKKKKK✨🔥
 ┣━━━━━━━━━━━━━━━━━━━━
 ┃➢ ${prefix}meme
 ┃➢ ${prefix}memeindo
 ┣━━━━━━━━━━━━━━━━━━━━
-┃🔥✨MENU DE GRUPO✨🔥          ┃ 
+┃🔥✨MENU DE GRUPO✨🔥
 ┣━━━━━━━━━━━━━━━━━━━━
 ┃➢ ${prefix}admin
 ┃➢ ${prefix}welcome [1/0]
@@ -57,7 +57,7 @@
 ┃➢ ${prefix}nsfwloli
 ┣━━━━━━━━━━━━━━━━━━━━
 ┣━━━━━━━━━━━━━━━━━━━━
-┃🔥✨MENU EXTRA✨🔥             ┃  
+┃🔥✨MENU EXTRA✨🔥
 ┣━━━━━━━━━━━━━━━━━━━━
 ┃➢ ${prefix}quotes
 ┃➢ ${prefix}ssweb
@@ -68,14 +68,14 @@
 ┃➢ ${prefix}hilih
 ┃➢ ${prefix}ytstalk
 ┣━━━━━━━━━━━━━━━━━━━━
-┃🔥✨MENU DO DONO✨🔥           ┃
+┃🔥✨MENU DO DONO✨🔥
 ┣━━━━━━━━━━━━━━━━━━━━
 ┃➢ ${prefix}setprefix
 ┃➢ ${prefix}bc
 ┃➢ ${prefix}clearall
 ┃➢ ${prefix}clone
 ┣━━━━━━━━━━━━━━━━━━━━
-┃⟪💞amo vcs seus sapeka💞》     ┃
+┃⟪💞amo vcs seus sapeka💞
 ┣━━━━━━━━━━━━━━━━━━━━
 `
 }
