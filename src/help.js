@@ -4,11 +4,13 @@
 ┃ *⚠️ NAO LIGA FILHA DA PUTA ⚠️*
 ┃      *SE LIGAR E AUTO-BLOCK*
 ┣━━━━━━━━━━━━━━━━━━━━┛
-┃⊱❥ DONO : cychris┃⊱❥ insta : @cychris_fds.trash
+┃⊱❥ DONO : cychris
+┃⊱❥ insta : @cychris_fds.trash
 ┃⊱❥ PREFIX : 「 ${prefix} 」
 ┃⊱❥ VERÇAO : BETA
 ┣━━━━━━━━━━━━━━━━━━━━┛
-┃ INFORMASAUM DA BOT┣━━━━━━━━━━━━━━━━━━━━┓
+┃ INFORMASAUM DA BOT
+┣━━━━━━━━━━━━━━━━━━━━┓
 ┃➢ ${prefix}info
 ┃➢ ${prefix}owner
 ┃➢ ${prefix}donasi
@@ -23,16 +25,18 @@
 ┃➢ ${prefix}tts
 ┃➢ ${prefix}nulis
 ┣━━━━━━━━━━━━━━━━━━━━┛
-┃ MENU DE DONWLOAD┣━━━━━━━━━━━━━━━━━━━━┓
+┃ MENU DE DONWLOAD
+┣━━━━━━━━━━━━━━━━━━━━┓
 ┃➢ ${prefix}tiktod
 ┃➢ ${prefix}ytmp3
 ┣━━━━━━━━━━━━━━━━━━━━┛
-┣━━━━━━━━━━━━━━━━━━━━┛
-┃ MENU KKKKKKK┣━━━━━━━━━━━━━━━━━━━━┓
+┃ MENU KKKKKKK
+┣━━━━━━━━━━━━━━━━━━━━┓
 ┃➢ ${prefix}meme
 ┃➢ ${prefix}memeindo
 ┣━━━━━━━━━━━━━━━━━━━━┛
-┃ MENU DE GRUPO┣━━━━━━━━━━━━━━━━━━━━┓
+┃ MENU DE GRUPO
+┣━━━━━━━━━━━━━━━━━━━━┓
 ┃➢ ${prefix}admin
 ┃➢ ${prefix}welcome [1/0]
 ┃➢ ${prefix}add
@@ -46,11 +50,10 @@
 ┃➢ ${prefix}leave
 ┃➢ ${prefix}simih [1/0]
 ┣━━━━━━━━━━━━━━━━━━━━┛
-┃ MENU LOLI  [ vai dar erro pq nao termineiKKKKKK ]
+┃ MENU LOLI  [vai dar erro pq nao termineiKKKKKK]
 ┣━━━━━━━━━━━━━━━━━━━━┓
 ┃➢ ${prefix}loli
 ┃➢ ${prefix}nsfwloli
-┣━━━━━━━━━━━━━━━━━━━━┛
 ┣━━━━━━━━━━━━━━━━━━━━┛
 ┃ MENU EXTRA
 ┣━━━━━━━━━━━━━━━━━━━━┓
