@@ -75,7 +75,7 @@ async function starts() {
 				} catch {
 					ppimg = 'https://i0.wp.com/www.gambarunik.id/wp-content/uploads/2019/06/Top-Gambar-Foto-Profil-Kosong-Lucu-Tergokil-.jpg'
 				}
-				teks = `eae @${num.split('@')[0]}\nSeja bem vindo ao le as regras*${mdata.subject}*`
+				teks = `eae @${num.split('@')[0]}\nSeja bem vindo ao *${mdata.subject}* le as regras`
 				let buff = await getBuffer(ppimg)
 				client.sendMessage(mdata.id, buff, MessageType.image, {caption: teks, contextInfo: {"mentionedJid": [num]}})
 			} else if (anu.action == 'remove') {
