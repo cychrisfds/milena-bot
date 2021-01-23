@@ -6,9 +6,10 @@
 ┣━━━━━━━━━━━━━━━━━━━━┛
 ┃⊱❥ DONO : cychris┃⊱❥ insta : @cychris_fds.trash
 ┃⊱❥ PREFIX : 「 ${prefix} 」
-┃⊱❥ VERÇAO : BETA
+┃⊱❥ VERÇAO : alpha v1
 ┣━━━━━━━━━━━━━━━━━━━━┛
-┃ INFORMASAUM DA BOT┣━━━━━━━━━━━━━━━━━━━━┓
+┃ INFORMAÇOES DA BOT
+┣━━━━━━━━━━━━━━━━━━━━┓
 ┃➢ ${prefix}info
 ┃➢ ${prefix}owner
 ┃➢ ${prefix}donasi
@@ -71,6 +72,8 @@
 ┃➢ ${prefix}clone
 ┣━━━━━━━━━━━━━━━━━━━━┛
 ┃⟪ amo vcs seus sapeka ⟫
+┣━━━━━━━━━━━━━━━━━━━━
+┃
 ┣━━━━━━━━━━━━━━━━━━━━┓
 `
 }
